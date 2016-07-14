@@ -1,4 +1,4 @@
-application: javendaily20160714
+application: goodjaven2
 module: worker
 version: 1
 runtime: python27

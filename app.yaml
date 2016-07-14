@@ -1,5 +1,5 @@
-application: javendaily20160714
-version: 1
+application: goodjaven2
+version: 2
 runtime: python27
 api_version: 1
 threadsafe: true
